@@ -1,1 +1,3 @@
 # bookinfo
+# debug-istio
+# images
